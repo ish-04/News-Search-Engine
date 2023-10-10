@@ -7,6 +7,6 @@ preprocess.py :  This file preprocesses the data from the dataset and writes it 
 indexes.py : This file constructs the index for the corpus
 
 ## Contributors
-[Surya Varathan](github.com/surya-varathan)
+[Vijayalakshmi M S](https://github.com/ish-04/)
 
-[Vishnu Vardhan](github.com/vardhan688)
+[Danya](https://github.com/Danya-26)
